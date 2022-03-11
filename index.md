@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## Welcom to Python and machine learning course
 
-You can use the [editor on GitHub](https://github.com/AmirMardan/ml_course/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This repository is created by [Amir Mardan](https://amirmardan.github.io/) to maintain and preview the contents for a Python and machine learning course prepared for Amirkabir University of Technology, Tehran, Iran. Please contact me via my email (mardan.amir.h@gmail.com) for your lovely feedback and suggestions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+**NOTE**
+
+I will push new contents weekly
+
+---
+
+<!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -35,3 +42,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ -->
