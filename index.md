@@ -17,8 +17,15 @@ I will push new contents weekly
         - Variables and data types
         - Operators
         - Control flow
-    - Modular programming
-    
+   - Modular programming
+    - Functions
+    - Lambda functions
+    - Built-in functions
+        - map function
+        - filter function
+        - enumerate function
+        - zip function
+    - Classes / objects
     
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
