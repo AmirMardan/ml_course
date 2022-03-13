@@ -17,7 +17,7 @@ I will push new contents weekly
         - Variables and data types
         - Operators
         - Control flow
-   - Modular programming
+    - Modular programming
     - Functions
     - Lambda functions
     - Built-in functions
