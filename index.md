@@ -9,6 +9,17 @@ I will push new contents weekly
 
 ---
 
+# 1. Intro to Python
+    This part contains 2 sections. 
+    - General programming
+        - An introduction
+        - Required tools
+        - Variables and data types
+        - Operators
+        - Control flow
+    - Modular programming
+    
+    
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
