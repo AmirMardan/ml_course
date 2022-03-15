@@ -25,6 +25,28 @@ I will push new contents weekly
             - enumerate function
             - zip function
         - Classes / objects
+
+# 2. Introduction to NumPy
+    - Creating a NumPy array
+        - Creating arrays from lists
+        - Special arrays
+    - Attributes of arrays
+    - Data Selection
+        - Array indexing
+        - Array slicing
+        - Array view vs copy
+        - Conditional selection
+    - Array manipulation
+        - Shape of an array
+        - Joining arrays
+        - Splitting of arrays
+    - Aggregations
+        - Summation
+        - Minimum and maximum
+        - Variance and standard deviation
+        - Mean and median
+        - Find index
+
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
@@ -58,5 +80,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
- -->
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
