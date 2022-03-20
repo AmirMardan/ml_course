@@ -73,6 +73,7 @@ I will push new contents weekly
     - Detecting the missing values
     - Dealing with missing values
 - IO in pandas
+
 ## 3.2 Data manipulation in using pandas
 - Basic operations in pandas
 - Combining datasets
@@ -82,4 +83,22 @@ I will push new contents weekly
 - Aggregation
 - `Groupby`
 - Vectorized string
+
+# 4 Visualization
+
+## 4.1 Matplotlib
+- Basic matplotlib
+    - Simple matplotlib
+    - Subplots
+    - Object-oriented method
+- Different types of plot
+    - Scatter plot
+    - Bar plot
+    - Histogram
+    - Pie chart
+    - Box Plot
+    - Violin plot
+- Images with matplotlib
+- Animation using matplotlib
+    - Live graph with matplotlib
 
