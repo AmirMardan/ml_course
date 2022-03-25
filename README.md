@@ -101,4 +101,19 @@ I will push new contents weekly
 - Images with matplotlib
 - Animation using matplotlib
     - Live graph with matplotlib
+## 4.2 Seaborn
+- Relational plots
+- Distribution plots
+    - `displot`
+    - `jointplot`
+    - `pairplot`
+- Categorical plots
+    - Categorical scatter plots
+    - Categorical distribution plots
+    - Categorical estimate plots
+- Regression plots
+- FacetGrid
+- Customization
+    - Style and theme
+    - Colors
 
