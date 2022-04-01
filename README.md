@@ -101,6 +101,7 @@ I will push new contents weekly
 - Images with matplotlib
 - Animation using matplotlib
     - Live graph with matplotlib
+    
 ## 4.2 Seaborn
 - Relational plots
 - Distribution plots
@@ -116,4 +117,14 @@ I will push new contents weekly
 - Customization
     - Style and theme
     - Colors
+
+# 5 Data Analysis Processing
+
+## 5.1 Exploratory data analysis (EDA)
+- Import packages and dataset
+- Initial general assessment
+- Basic analysis
+- Missing data
+- Outliers
+- Correlation
 
