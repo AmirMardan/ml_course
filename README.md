@@ -128,3 +128,18 @@ I will push new contents weekly
 - Outliers
 - Correlation
 
+## 5.2 Data preparation
+
+## 5.3 Data Cleaning
+- Import packages and dataset
+- Initial general assessment
+    - Rows with duplicated data
+    - Columns with a single value
+- Outliers
+    - Standard deviation method
+    - Interquartile range method
+- Missing data
+    - Remove rows with missing values
+    - Filling missing values
+
+
