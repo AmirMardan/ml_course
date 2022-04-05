@@ -61,7 +61,7 @@ I will push new contents weekly
     - Mean and median
     - Find index
 
-# 3. Data manipulation with pandas
+# 3. Data Manipulation with Pandas
 ## 3.1 Introduction to pandas
 - Introducing Pandas objects
     - The pandas `Series` object
@@ -118,10 +118,9 @@ I will push new contents weekly
     - Style and theme
     - Colors
 
-# 5 Data Analysis Processing
+# 5 Data Analysis and Processing
 
 ## 5.1 Exploratory data analysis (EDA)
-- Import packages and dataset
 - Initial general assessment
 - Basic analysis
 - Missing data
@@ -131,7 +130,6 @@ I will push new contents weekly
 ## 5.2 Data preparation
 
 ## 5.3 Data Cleaning
-- Import packages and dataset
 - Initial general assessment
     - Rows with duplicated data
     - Columns with a single value
@@ -141,5 +139,19 @@ I will push new contents weekly
 - Missing data
     - Remove rows with missing values
     - Filling missing values
+
+## 5.4 Data Transforms
+- Scaling numerical data
+    - Data normalization
+    - Data standardization
+    - Robust scaling
+- Encode categorical data
+    - Ordinal Encoding
+    - One Hot Encoding
+    - Dummy Encoding
+- How to make distribution more Gaussian
+    - Box-Cox transform
+    - Yeo-Johnson transform
+    - Quantile transform
 
 
