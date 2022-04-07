@@ -154,4 +154,17 @@ I will push new contents weekly
     - Yeo-Johnson transform
     - Quantile transform
 
+# 6 Classical Machine Learning
 
+## 6.1 Introduction to Machine Learning
+## 6.2 Introduction to Scikit-Learn
+- Data presentation
+- Models in Scikit-learn
+    - Simple linear regression example
+    - Simple classification example
+    - Simple dimensionality reduction example
+    - Simple clustering example
+- Hyperparameters and model validation
+    - Cross validation
+    - Finding the best model
+    - Grid Search
