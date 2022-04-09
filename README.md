@@ -168,3 +168,16 @@ I will push new contents weekly
     - Cross validation
     - Finding the best model
     - Grid Search
+## 6.3 Regression 1
+- Ordinary Linear Regression
+- Linear Regression With Regularization
+    - Ridge Regularization
+    - Lasso Regularization
+    - Combined Regularization
+- A Linear Regression Project
+    - Exploratory Data Analysis
+    - Data Cleaning
+    - Data Processing Pipeline
+- Training and Evaluation
+    - Training Curve
+
