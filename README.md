@@ -180,4 +180,10 @@ I will push new contents weekly
     - Data Processing Pipeline
 - Training and Evaluation
     - Training Curve
+## 6.4 Classification 1
+- Logistic Regression
+- Support Vector Machine
+- Random Forest Classifier
+
+
 
