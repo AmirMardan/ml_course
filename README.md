@@ -184,6 +184,7 @@ I will push new contents weekly
 - Logistic Regression
 - Support Vector Machine
 - Random Forest Classifier
+## 6.5 Clustering - $k$-means
 
 
 
