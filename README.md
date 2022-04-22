@@ -184,7 +184,10 @@ I will push new contents weekly
 - Logistic Regression
 - Support Vector Machine
 - Random Forest Classifier
-## 6.5 Clustering - $k$-means
+## 6.5 Clustering 1
+- $k$-Means Clustering
+- Gaussian Mixture Models
+- Evaluation Clustering Models
 
 
 
