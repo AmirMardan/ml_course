@@ -157,6 +157,7 @@ I will push new contents weekly
 # 6 Classical Machine Learning
 
 ## 6.1 Introduction to Machine Learning
+
 ## 6.2 Introduction to Scikit-Learn
 - Data presentation
 - Models in Scikit-learn
@@ -168,6 +169,7 @@ I will push new contents weekly
     - Cross validation
     - Finding the best model
     - Grid Search
+
 ## 6.3 Regression 1
 - Ordinary Linear Regression
 - Linear Regression With Regularization
@@ -180,14 +182,33 @@ I will push new contents weekly
     - Data Processing Pipeline
 - Training and Evaluation
     - Training Curve
+
 ## 6.4 Classification 1
 - Logistic Regression
 - Support Vector Machine
 - Random Forest Classifier
+
 ## 6.5 Clustering 1
-- $k$-Means Clustering
+- k-Means Clustering
 - Gaussian Mixture Models
 - Evaluation Clustering Models
 
+# 7. Fully Connected Neural Networks (FCNNs)
 
+## 7.1 Introduction to TensorFlow
+- Graph and Session
+    - Build and Perform a Graph
+    - Gradient in TensorFlow
+- Tensor types in TensorFlow
+    - Constant
+    - Variable
+- Tensor Manipulation
+    - Creating A Tensors
+    - Creating Special Tensors
+    - Shape Manipulation
+    - Slicing
+- Operators
+    - Basic Arithmetic Operators
+    - Comparison Operators
+    - Logical And Bitwise Operators
 
