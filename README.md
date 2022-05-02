@@ -8,9 +8,8 @@ This repository is created by [Amir Mardan](https://amirmardan.github.io/) to ma
 I will push new contents weekly
 
 ---
-# [1. Introduction to Python](https://github.com/AmirMardan/ml_course/blob/main/1_intro_to_python/0_intro_to_python.ipynb)
-## 1.1 General programming
-
+## [1. Introduction to Python](https://github.com/AmirMardan/ml_course/blob/main/1_intro_to_python/0_intro_to_python.ipynb)
+#### 1.1 General programming
 - An introduction
 - Required tools
 - Variables and data types
@@ -30,7 +29,7 @@ I will push new contents weekly
     - `for` statements
     - `while` statements
 
-## [1.2 Modular programming](https://github.com/AmirMardan/ml_course/blob/main/1_intro_to_python/1_modular_programming.ipynb)
+#### [1.2 Modular programming](https://github.com/AmirMardan/ml_course/blob/main/1_intro_to_python/1_modular_programming.ipynb)
 - Functions
 - `Lambda` functions
 - Built-in functions
@@ -40,7 +39,7 @@ I will push new contents weekly
     - `zip` function
 - Classes / objects
 
-# [2. Introduction to NumPy](https://github.com/AmirMardan/ml_course/blob/main/2_numpy/0_intro_to_numpy.ipynb)
+## [2. Introduction to NumPy](https://github.com/AmirMardan/ml_course/blob/main/2_numpy/0_intro_to_numpy.ipynb)
 - Creating a NumPy array
     - Creating arrays from lists
     - Special arrays
@@ -62,8 +61,8 @@ I will push new contents weekly
     - Mean and median
     - Find index
 
-# 3. Data Manipulation with Pandas
-## [3.1 Introduction to pandas](https://github.com/AmirMardan/ml_course/blob/main/3_pandas/0_intro_to_pandas.ipynb)
+## 3. Data Manipulation with Pandas
+#### [3.1 Introduction to pandas](https://github.com/AmirMardan/ml_course/blob/main/3_pandas/0_intro_to_pandas.ipynb)
 - Introducing Pandas objects
     - The pandas `Series` object
     - The pandas `DataFrame` object
@@ -75,7 +74,7 @@ I will push new contents weekly
     - Dealing with missing values
 - IO in pandas
 
-## [3.2 Data manipulation in using pandas](https://github.com/AmirMardan/ml_course/blob/main/3_pandas/1_data_manipulation_using_pandas.ipynb)
+#### [3.2 Data manipulation in using pandas](https://github.com/AmirMardan/ml_course/blob/main/3_pandas/1_data_manipulation_using_pandas.ipynb)
 - Basic operations in pandas
 - Combining datasets
     - Concat
@@ -85,9 +84,9 @@ I will push new contents weekly
 - `Groupby`
 - Vectorized string
 
-# 4 Visualization
+## 4 Visualization
 
-## [4.1 Matplotlib](https://github.com/AmirMardan/ml_course/blob/main/4_visualization/0_matplotlib.ipynb)
+#### [4.1 Matplotlib](https://github.com/AmirMardan/ml_course/blob/main/4_visualization/0_matplotlib.ipynb)
 - Basic matplotlib
     - Simple matplotlib
     - Subplots
@@ -103,7 +102,7 @@ I will push new contents weekly
 - Animation using matplotlib
     - Live graph with matplotlib
     
-## [4.2 Seaborn](https://github.com/AmirMardan/ml_course/blob/main/4_visualization/1_seaborn.ipynb)
+#### [4.2 Seaborn](https://github.com/AmirMardan/ml_course/blob/main/4_visualization/1_seaborn.ipynb)
 - Relational plots
 - Distribution plots
     - `displot`
@@ -119,18 +118,18 @@ I will push new contents weekly
     - Style and theme
     - Colors
 
-# 5 Data Analysis and Processing
+## 5 Data Analysis and Processing
 
-## [5.1 Exploratory data analysis (EDA)](https://github.com/AmirMardan/ml_course/blob/main/5_data_analysis_processing/0_introduction_to_EDA.ipynb)
+#### [5.1 Exploratory data analysis (EDA)](https://github.com/AmirMardan/ml_course/blob/main/5_data_analysis_processing/0_introduction_to_EDA.ipynb)
 - Initial general assessment
 - Basic analysis
 - Missing data
 - Outliers
 - Correlation
 
-## [5.2 Data preparation](https://github.com/AmirMardan/ml_course/blob/main/5_data_analysis_processing/1_intro_to_data_preparation.ipynb)
+#### [5.2 Data preparation](https://github.com/AmirMardan/ml_course/blob/main/5_data_analysis_processing/1_intro_to_data_preparation.ipynb)
 
-## [5.3 Data Cleaning](https://github.com/AmirMardan/ml_course/blob/main/5_data_analysis_processing/2_data_cleaning.ipynb)
+#### [5.3 Data Cleaning](https://github.com/AmirMardan/ml_course/blob/main/5_data_analysis_processing/2_data_cleaning.ipynb)
 - Initial general assessment
     - Rows with duplicated data
     - Columns with a single value
@@ -141,7 +140,7 @@ I will push new contents weekly
     - Remove rows with missing values
     - Filling missing values
 
-## [5.4 Data Transforms](https://github.com/AmirMardan/ml_course/blob/main/5_data_analysis_processing/3_data_transform.ipynb)
+#### [5.4 Data Transforms](https://github.com/AmirMardan/ml_course/blob/main/5_data_analysis_processing/3_data_transform.ipynb)
 - Scaling numerical data
     - Data normalization
     - Data standardization
@@ -155,11 +154,11 @@ I will push new contents weekly
     - Yeo-Johnson transform
     - Quantile transform
 
-# 6 Classical Machine Learning
+## 6 Classical Machine Learning
 
-## [6.1 Introduction to Machine Learning](https://github.com/AmirMardan/ml_course/blob/main/6_classical_machine_learning/0_Intro_to_ML.md)
+#### [6.1 Introduction to Machine Learning](https://github.com/AmirMardan/ml_course/blob/main/6_classical_machine_learning/0_Intro_to_ML.md)
 
-## [6.2 Introduction to Scikit-Learn](https://github.com/AmirMardan/ml_course/blob/main/6_classical_machine_learning/1_intro_to_sklearn.ipynb)
+#### [6.2 Introduction to Scikit-Learn](https://github.com/AmirMardan/ml_course/blob/main/6_classical_machine_learning/1_intro_to_sklearn.ipynb)
 - Data presentation
 - Models in Scikit-learn
     - Simple linear regression example
@@ -171,7 +170,7 @@ I will push new contents weekly
     - Finding the best model
     - Grid Search
 
-## [6.3 Regression 1](https://github.com/AmirMardan/ml_course/blob/main/6_classical_machine_learning/2_regression_1.ipynb)
+#### [6.3 Regression 1](https://github.com/AmirMardan/ml_course/blob/main/6_classical_machine_learning/2_regression_1.ipynb)
 - Ordinary Linear Regression
 - Linear Regression With Regularization
     - Ridge Regularization
@@ -184,19 +183,19 @@ I will push new contents weekly
 - Training and Evaluation
     - Training Curve
 
-## [6.4 Classification 1](https://github.com/AmirMardan/ml_course/blob/main/6_classical_machine_learning/3_classification_1.ipynb)
+#### [6.4 Classification 1](https://github.com/AmirMardan/ml_course/blob/main/6_classical_machine_learning/3_classification_1.ipynb)
 - Logistic Regression
 - Support Vector Machine
 - Random Forest Classifier
 
-## [6.5 Clustering 1](https://github.com/AmirMardan/ml_course/blob/main/6_classical_machine_learning/4_clustering_1.ipynb)
+#### [6.5 Clustering 1](https://github.com/AmirMardan/ml_course/blob/main/6_classical_machine_learning/4_clustering_1.ipynb)
 - k-Means Clustering
 - Gaussian Mixture Models
 - Evaluation Clustering Models
 
-# 7. Fully Connected Neural Networks (FCNNs)
+## 7. Fully Connected Neural Networks (FCNNs)
 
-## [7.1 Introduction to TensorFlow](https://github.com/AmirMardan/ml_course/blob/main/7_fully_connected_nn/0_intro_to_tensorflow.ipynb)
+#### [7.1 Introduction to TensorFlow](https://github.com/AmirMardan/ml_course/blob/main/7_fully_connected_nn/0_intro_to_tensorflow.ipynb)
 - Graph and Session
     - Build and Perform a Graph
     - Gradient in TensorFlow
@@ -213,7 +212,7 @@ I will push new contents weekly
     - Comparison Operators
     - Logical And Bitwise Operators
 
-## [7.2 Introduction To Fully Connected Neural Networks](https://github.com/AmirMardan/ml_course/blob/main/7_fully_connected_nn/1_intro_to_NN.ipynb)
+#### [7.2 Introduction To Fully Connected Neural Networks](https://github.com/AmirMardan/ml_course/blob/main/7_fully_connected_nn/1_intro_to_NN.ipynb)
 - Neural Network From Scratch
 - Neural Network With TensorFlow
 
