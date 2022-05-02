@@ -10,6 +10,7 @@ I will push new contents weekly
 ---
 # [1. Introduction to Python](https://github.com/AmirMardan/ml_course/blob/main/1_intro_to_python/0_intro_to_python.ipynb)
 ## 1.1 General programming
+
 - An introduction
 - Required tools
 - Variables and data types
